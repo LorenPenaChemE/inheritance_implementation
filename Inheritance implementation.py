@@ -1,7 +1,7 @@
 """
 Inheritance implementation
 Loren Pena
-Purpose of this assignment is to create logic gates using a inheritance architecture
+Purpose of this is to create logic gates using a inheritance architecture
 """
 class Input:
     """
